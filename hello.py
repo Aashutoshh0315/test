@@ -1,1 +1,5 @@
 print("hello, world!")
+name = input("What is your name? ")
+print(f"Hello, {name}!")
+num1 = int(input("Enter a number: "))
+print(f"You entered: {num1}")
